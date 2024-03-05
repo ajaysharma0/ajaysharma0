@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajaysharma0
+- 👋 Hi, I’m @ajaysharma
 - 👀 I’m interested in full-stack development, exploring new technologies, and building innovative solutions.
 - 🌱 I’m currently learning and enhancing my skills in web development, both front-end and back-end technologies.
 - 💞️ I’m looking to collaborate on open-source projects or any exciting initiatives that involve creative problem-solving.
